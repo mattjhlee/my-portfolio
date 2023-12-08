@@ -2,33 +2,38 @@
     "projects": [
         {
             "id": 1,
-            "name": "",
-            "description": "",
-            "image": ""
+            "name": "Country Donutz",
+            "description": "Created using a React frontend and Flask backend with API endpoints for Fetch requests, and SQLite for data persistence. Designed an editing page for admin users allowing them to alter database with ease. Included full CRUD functionality on database using SQL and RESTful conventions",
+            "image": "",
+            "github": "https://github.com/mattjhlee/country-donutz"
         },
         {
             "id": 2,
             "name": "",
             "description": "",
-            "image": ""
+            "image": "",
+            "github": ""
         },
         {
             "id": 3,
             "name": "",
             "description": "",
-            "image": ""
+            "image": "",
+            "github": ""
         },
         {
             "id": 4,
             "name": "",
             "description": "",
-            "image": ""
+            "image": "",
+            "github": ""
         },
         {
             "id": 5,
             "name": "",
             "description": "",
-            "image": ""
-        },
+            "image": "",
+            "github": ""
+        }
     ]
 }
